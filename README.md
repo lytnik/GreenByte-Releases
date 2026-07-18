@@ -47,6 +47,6 @@ Make your digital life climate-smart
 
 <div align="center">
 
-Made with 💚 by GreenByte
+Made with 💚 by GreenByte team https://greenbyte.live/#team
 
 </div>
