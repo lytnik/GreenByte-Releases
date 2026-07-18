@@ -6,7 +6,7 @@
 
 # 🍃 GreenByte
 
-### AI-powered productivity assistant
+### Every byte counts. Make yours green.
 
 [![Version](https://img.shields.io/github/v/release/lytnik/GreenByte-Releases?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-22c55e?style=for-the-badge)]()
@@ -41,7 +41,7 @@ https://greenbyte.live/download
 
 ### 💚 GreenByte
 
-Making productivity smarter.
+Make your digital life climate-smart
 
 </div>
 
