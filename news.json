@@ -2,13 +2,19 @@
   {
     "date": "2026-07-19",
     "title": "GreenByte v1.0",
-    "tag": "BETA",
-    "body": "TEST NEWS"
+    "tag": "REALESE",
+    "body": "1.0 UPDATE (info about it)"
   },
   {
     "date": "2026-07-18",
     "title": "TEST",
-    "tag": "BETA",
-    "body": "TEST NEWS"
+    "tag": "EVENT",
+    "body": "EVENTS (like hallowen new-year)"
+  }
+    {
+    "date": "2026-07-18",
+    "title": "TEST",
+    "tag": "INFO",
+    "body": "Information about something (like hallowen new-year)"
   }
 ]
